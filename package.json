@@ -1,7 +1,11 @@
 {
   "name": "jstransformer-example",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "JSTransform for html examples",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@stash.knowit.no:8000/~kw_knowit.no/jstransformer-example.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
