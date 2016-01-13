@@ -4,7 +4,7 @@
   "description": "JSTransform for html examples",
   "repository": {
     "type": "git",
-    "url": "ssh://git@stash.knowit.no:8000/~kw_knowit.no/jstransformer-example.git"
+    "url": "https://github.com/kwltrs/jstransformer-example.git"
   },
   "main": "index.js",
   "scripts": {
